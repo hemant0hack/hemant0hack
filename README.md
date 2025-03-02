@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
     <img  src="giphy.gif" alt="gif" width="100">
 </p>
 <h1 align="center">Hi 👋, I'm Hemant Rathore</h1>
@@ -33,11 +33,27 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemant0hack&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
-## Connect with Me
+## ⚙️Tech Stack
 
-<p align="center">
+<p>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+## 🔗Connect with Me
+
+<p style="margin: 10px 0;">
     <a href="https://linkedin.com/in/hemant0hack/" target="_blank">
-        <img align="left" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/LinkedIn-512.png" alt="LinkedIn" height="30" width="40" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="https://instagram.com/_hemant0hack_" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="https://wa.me/918445952688" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" style="margin-right: 10px;" />
+    </a>
+    <a href="mailto:hemant0hack@gmail.com" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
     </a>
 </p>
 
