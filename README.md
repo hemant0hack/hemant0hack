@@ -49,7 +49,7 @@
     <a href="https://instagram.com/_hemant0hack_" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="40" style="margin-right: 10px;" />
     </a>
-    <a href="https://wa.me/918445952688" target="_blank">
+    <a href="https://wa.me/918445952688?text=Hi%2C%20I%20am%20interested%20in%20connecting%20with%20you%20via%20GitHub" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" style="margin-right: 10px;" />
     </a>
     <a href="mailto:hemant0hack@gmail.com" target="_blank">
