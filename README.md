@@ -43,19 +43,10 @@
 </p>
 
 ## 🔗Connect with Me
+Feel free to reach out for collaboration or queries:
 
-<p style="margin: 10px 0;">
-    <a href="https://linkedin.com/in/hemant0hack/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://instagram.com/_hemant0hack_?follow=true" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="https://wa.me/918445952688?text=Hi%2C%20I%20am%20interested%20in%20connecting%20with%20you%20via%20GitHub" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="30" width="40" style="margin-right: 10px;" />
-    </a>
-    <a href="mailto:hemant0hack@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
-    </a>
-</p>
+- 📧 **Email**: [hemant0hack@gmail.com](mailto:hemant0hack@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/hemant0hack](https://www.linkedin.com/in/hemant0hack)
+- 📱 **WhatsApp**: <a href="https://wa.me/918445952688?text=Hi%2C%20I%20am%20interested%20in%20connecting%20with%20you%20via%20GitHub" target="_blank">+91844XXXX688</a>
+- 📸 **Instagram**: <a href="https://www.instagram.com/_hemant0hack_" target="_blank">@_ hemant0hack _</a>
 
