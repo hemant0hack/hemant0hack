@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi <span>👋</span>, I'm <span style="color:#ff1493">Hemant Rathore</span></h1>
-<h3 align="center">🚀 Welcome to my interactive GitHub profile!</h3>
+<h3 align="center">🚀 Welcome to my GitHub profile!</h3>
 
 <p align="center">
     <a href="#stats">📊 Stats</a> •
