@@ -20,7 +20,7 @@
     <a href="https://hemant0hack.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-hemant0hack.vercel.app-ff1493?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a><br>
     <a href="mailto:hemant0hack@gmail.com"><img src="https://img.shields.io/badge/Email-hemant0hack@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a><br>
     <a href="https://www.linkedin.com/in/hemant0hack" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-hemant0hack-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br>
-    <a href="https://wa.me/918445952688?text=Hi%2C%20I%20am%20interested%20in%20connecting%20with%20you%20via%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a><br>
+    <a href="https://wa.me/918445952688?text=Hi%2C%20I%20am%20interested%20in%20connecting%20with%20you%20via%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-hemant0hack-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a><br>
     <a href="https://www.instagram.com/_hemant0hack_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@_hemant0hack_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
