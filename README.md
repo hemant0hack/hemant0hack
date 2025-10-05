@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40" />
     <img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40" />
     <img src="https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="40" />
-    <img src="https://img.shields.io/badge/-E73426?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="40" />
+    <img src="https://img.shields.io/badge/-E73426?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="41" />
 </p>
 </details>
 
