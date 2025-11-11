@@ -68,6 +68,8 @@
     <img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40" />
     <img src="https://img.shields.io/badge/-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" height="40" />
     <img src="https://img.shields.io/badge/-E73426?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="40" />
+    <img src="https://img.shields.io/badge/-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" height="40" />
+    <img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="40" />
 </p>
 </details>
 
