@@ -15,7 +15,7 @@
     <a href="#connect">🔗 Connect</a>
 </p>
 
-<p align="center">
+<p>
     <img src="https://komarev.com/ghpvc/?username=hemant0hack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /><br>
     <a href="https://hemant0hack.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-hemant0hack.vercel.app-ff1493?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a><br>
     <a href="mailto:hemant0hack@gmail.com"><img src="https://img.shields.io/badge/Email-hemant0hack@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a><br>
